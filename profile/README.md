@@ -1,4 +1,4 @@
-[<img src="acm_logo.png" align="right" width="145"/>](https://pec.acm.org/)
+[<img src="profile/acm_logo.png" align="right" width="145"/>](https://pec.acm.org/)
 
 # ACM-CSS
 > The Association for Computing Machinery and Computer Science Society
