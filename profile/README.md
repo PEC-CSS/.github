@@ -10,17 +10,12 @@ We are a 300+ strong community of Computer Science enthusiasts working together 
 ## Subgroups
 Within our society, we have formed specialized subgroups focusing on different aspects of Computer Science. Each subgroup caters to specific interests and provides a platform for members to delve deeper into their chosen domain. Explore our subgroups below:
 
-1. **Development Web/App**: This subgroup focuses on web and application development. Members collaborate on building dynamic and user-friendly websites and applications using a variety of front-end and back-end technologies.
-
-2. **Machine Learning**: In this subgroup, members explore the fascinating world of machine learning and artificial intelligence. They delve into topics such as data preprocessing, model training, and implementing complex algorithms to create predictive models.
-
-3. **Competitive Programming**: The Competitive Programming subgroup hones members' problem-solving and algorithmic skills through coding competitions, practice sessions, and algorithm discussions. Members sharpen their abilities to tackle intricate coding challenges efficiently.
-
-4. **Cyber Security**: This subgroup focuses on cybersecurity, including network security, ethical hacking, cryptography, and secure coding practices. Members collaborate on projects to enhance their understanding of security vulnerabilities and develop strategies to mitigate risks.
-
-5. **Open Source**: The Open Source subgroup promotes the philosophy of open collaboration and contribution to open-source projects. Members actively engage in exploring and contributing to existing projects, as well as initiating their own open-source initiatives.
-
-6. **Designing and Socials**: This subgroup combines the creative aspects of design and the social dynamics of our society. Members work on graphic design, user interface (UI) and user experience (UX) design, branding, and organizing engaging social activities.
+1. **Development Web/App**
+2. **Machine Learning**
+3. **Competitive Programming**
+4. **Cyber Security**
+5. **Open Source**
+6. **Designing and Socials**
 
 ## ACM Student Chapter - PEC ACM
 We are proud to be an integral part of the official ACM Student Chapter - PEC ACM. As a recognized chapter, we actively participate in ACM initiatives, events, and competitions. Through our association with ACM, we gain access to a global network of professionals, resources, and opportunities in the field of Computer Science.
