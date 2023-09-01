@@ -17,5 +17,5 @@ We are proud to be an integral part of the official ACM Student Chapter - PEC AC
 
 Connect with us and stay updated with the latest happenings within our society:
 
--   Website: [https://pecacm.vercel.app/](https://www.pecacm.com)
+-   Website: [https://www.pecacm.com](https://www.pecacm.com)
 -   Email: [acmcss@pec.edu.in](mailto:acmcss@pec.edu.in)
