@@ -1,4 +1,4 @@
-[<img src="profile/acm.png" align="right" width="145"/>](https://pecacm.vercel.app/)
+[<img src="profile/acm.png" align="right" width="145"/>](https://www.pecacm.com)
 
 # ACM student chapter - Punjab Engineering College, Chandigarh
 
